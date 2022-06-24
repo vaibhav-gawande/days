@@ -1,17 +1,18 @@
 .Date{
     height: 100px;
     width: 100px;
-    background-color: pink;
+    background-color: tomato;
     font-size: larger;
-    color: blue;
+    color: whitesmoke;
     border: 10px solid yellowgreen;
     text-align: center;
-    border-radius: 50%;
+    border-radius: 5%;
     box-shadow:  0 0 30px yellowgreen;
     text-shadow: 0 0 30px rgba(0,0,0,0.2);
-
+    position: relative;
+    left: 5vh;
+    top: 5vh;
 }
 body{
-
     background-color: blueviolet;
 }
